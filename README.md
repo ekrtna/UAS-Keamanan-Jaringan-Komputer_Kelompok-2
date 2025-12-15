@@ -39,6 +39,3 @@ Perangkat IoT seperti ESP32 rentan terhadap serangan MITM ARP Spoofing pada jari
 - Mikrotik Router
 - Wireshark
 - Dataset PCAPNG
-
-## Catatan
-Repositori ini dibuat untuk keperluan penelitian dan tugas akademik.

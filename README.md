@@ -1,5 +1,5 @@
-# UAS-Keamanan-Jaringan-Komputer_Kelompok-2
-Monitoring Serangan MITM ARP Spoofing Terhadap Perangkat IoT
+# Monitoring Serangan MITM ARP Spoofing Terhadap Perangkat IoT
+Dibuat untuk UAS Keamanan Jaringan Komputer Kelompok 2
 
 ## Deskripsi
 Repositori ini berisi penelitian mengenai monitoring dan analisis serangan Man-in-the-Middle (MITM) menggunakan teknik ARP Spoofing pada lingkungan Internet of Things (IoT). Penelitian difokuskan pada perangkat ESP32 dalam jaringan lokal terkontrol untuk menganalisis perbedaan karakteristik lalu lintas jaringan antara kondisi normal dan kondisi saat terjadi serangan.
